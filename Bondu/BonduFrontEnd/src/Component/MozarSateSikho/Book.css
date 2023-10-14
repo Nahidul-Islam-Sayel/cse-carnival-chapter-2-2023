@@ -1,0 +1,8 @@
+.bookbg {
+  background: url(../Image/book.jpg) center/cover no-repeat;
+  height: 100%;
+}
+.cd {
+  width: 300px;
+  margin-bottom: 100px;
+}

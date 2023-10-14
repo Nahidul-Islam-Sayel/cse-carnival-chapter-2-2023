@@ -1,0 +1,36 @@
+.mozarsatesikho h1 {
+  font-size: 40px;
+  font-weight: bold;
+  font-style: italic;
+
+  color: white;
+}
+.mozarsatesikho p {
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  color: white;
+}
+.mozarsatesikho {
+  background: url(../Image/KehlboAndSikbo\ bg.jpg) center/cover no-repeat;
+  height: 100%;
+  text-align: center;
+}
+.mozar {
+  color: #6255c7;
+}
+.sate {
+  color: #6bba46;
+}
+.shikbo {
+  color: #36a1d9;
+}
+.classcard {
+  margin-bottom: 10px;
+}
+.card img {
+  height: 250px;
+}
+.card-text {
+  color: black;
+}

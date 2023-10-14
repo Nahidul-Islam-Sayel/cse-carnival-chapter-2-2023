@@ -1,0 +1,12 @@
+.blod {
+  font-weight: bold;
+}
+.bookimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.mathbook h1 {
+  text-align: center;
+}
