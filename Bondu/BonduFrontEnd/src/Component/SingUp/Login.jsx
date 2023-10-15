@@ -7,7 +7,7 @@ import { useNavigate } from 'react-router-dom';
 import { userContext } from '../../App';
 import './SingUp.css'
 const LoginSection = () => {  
-    const [login, setLogin] = useContext(userContext);
+    const [login, setLogin,payment,setPayment] = useContext(userContext);
  
     const [visible, setVisible] = useState(false);
     const [visibleR, setVisibleR] = useState(false);
@@ -46,7 +46,7 @@ const LoginSection = () => {
 
                         setstudentsPro(true)
 
-
+                      
                         setVisible(true);
 
                     }

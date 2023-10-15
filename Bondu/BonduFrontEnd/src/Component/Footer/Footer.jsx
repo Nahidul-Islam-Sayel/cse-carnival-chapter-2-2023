@@ -48,7 +48,7 @@ const Footer = () => {
                     <div className="row">
                         <p className="mt-3">
                             <br />
-                            Copyright ©2023 All rights reserved | This template is made   by Nahidul Islam Sayel.
+                            Copyright ©2023 All rights reserved | This template is made   by team SIU_AL_Barakah.
                         </p>
                     </div>
                 </div>

@@ -7,6 +7,13 @@
   margin-right: auto;
   width: 50%;
 }
+.bookimg1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+}
 .mathbook h1 {
   text-align: center;
 }
